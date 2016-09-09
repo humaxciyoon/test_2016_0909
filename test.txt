@@ -2,7 +2,9 @@
 	<li>Erlang</li>
 	<li>Python</li>
 	<li>Objective C</li>
+	<li>RUBY</li>
 	<li>CiyooNjavascript</li>
+	<li>ECMAScript</li>
 </ul>
 
 
