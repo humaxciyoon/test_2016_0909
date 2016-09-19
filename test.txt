@@ -3,6 +3,7 @@
 	<li>Letter A</li>
 	<li>Letter B</li>
 	<li>Letter C</li>
+	<li>Letter D</li>
 	<li>Python</li>
 	<li>Objective C</li>
 	<li>RUBY</li>
